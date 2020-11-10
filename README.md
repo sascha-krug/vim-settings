@@ -1,3 +1,6 @@
+# Vim Cheat Sheat
+https://vim.rtorr.com/
+
 # How to customize vim
 
 Settings are done on Mac OSX 10.14.6
@@ -138,3 +141,8 @@ add to `~/.vimrc.plug`:
 Plug 'mhinz/vim-startify'
 Plug 'preservim/nerdtree'
 ```
+
+## more useful plugins
+https://medium.com/@huntie/10-essential-vim-plugins-for-2018-39957190b7a9
+
+https://blog.codota.com/top-15-vim-plugins-100-free/
