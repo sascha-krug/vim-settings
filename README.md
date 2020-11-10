@@ -140,7 +140,12 @@ add to `~/.vimrc.plug`:
 ```
 Plug 'mhinz/vim-startify'
 Plug 'preservim/nerdtree'
+Plug 'https://git.drupalcode.org/project/vimrc.git', { 'branch': '8.x-1.x', 'rtp': 'bundle/vim-plugin-for-drupal' }
 ```
+see also:
+* https://github.com/mhinz/vim-startify
+* https://github.com/preservim/nerdtree
+* https://www.drupal.org/node/1389448#basic
 
 ## more useful plugins
 https://medium.com/@huntie/10-essential-vim-plugins-for-2018-39957190b7a9
